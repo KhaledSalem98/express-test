@@ -1,0 +1,17 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "khaled's pet project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "khaled": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khaled salem",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
